@@ -1,16 +1,17 @@
 .footer {
-        width: 100vw;
-        text-align: center;
-        padding: 18px 0 10px 0;
-        color: #aaa;
-        font-size: 15px;
-        letter-spacing: 1px;
-        background: rgba(36,36,36,0.98);
-        z-index: 9999;
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
+    width: 100vw;
+    text-align: center;
+    padding: 18px 0 10px 0;
+    color: #aaa;
+    font-size: 15px;
+    letter-spacing: 1px;
+    background: rgba(36,36,36,0.98);
+    z-index: 9999;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
+    margin-top: 40px;
 }
 
 @media (max-width: 600px) {
@@ -41,8 +42,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 60px; /* space for footer */
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 .board {
