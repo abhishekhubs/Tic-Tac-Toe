@@ -1,27 +1,38 @@
-# Tic-Tac-Toe
 
-A classic Tic-Tac-Toe game implemented with plain JavaScript, HTML, and CSS.
+---
 
-## Features
-- Two-player mode (X vs O)
-- Win detection and board reset
-- Responsive design for desktop and mobile
+## 🎉 Fancy README with Badges & Emojis
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
+```markdown
+# ✨ Tic-Tac-Toe 🎮
 
-## Installation
-1. Clone the repo: `git clone <repo URL>`
-2. Open `index.html` in your browser
-3. Play!
+![GitHub repo size](https://img.shields.io/github/repo-size/abhishekhubs/Tic-Tac-Toe)
+![GitHub stars](https://img.shields.io/github/stars/abhishekhubs/Tic-Tac-Toe?style=social)
+![GitHub forks](https://img.shields.io/github/forks/abhishekhubs/Tic-Tac-Toe?style=social)
+![License](https://img.shields.io/github/license/abhishekhubs/Tic-Tac-Toe)
 
-## Demo
-![Gameplay Screenshot](link-or-path-to-image)
+A fun and classic **Tic-Tac-Toe game** built with 💻 **HTML, CSS, and JavaScript**.  
+Challenge a friend and see who wins — ❌ vs ⭕!
 
-## Contributing
-Feel free to fork the repo, submit pull requests, or raise issues.
+---
 
-## License
-MIT License
+## 🚀 Features
+- 👥 **Two Players** (X vs O)
+- 🏆 **Win Detection** with alerts
+- 🤝 **Draw Condition**
+- 🔄 **Restart Button** to play again
+- 📱 **Responsive Design** (works on desktop & mobile)
+
+---
+
+## 🛠️ Tech Stack
+- 🌐 HTML5  
+- 🎨 CSS3  
+- ⚡ JavaScript (ES6)
+
+---
+
+## 📦 Installation
+```bash
+git clone https://github.com/abhishekhubs/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
