@@ -6,12 +6,8 @@
     font-size: 15px;
     letter-spacing: 1px;
     background: rgba(36,36,36,0.98);
-    z-index: 9999;
-    position: sticky;
-    left: 0;
-    bottom: 0;
-    box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
     margin-top: 40px;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
 }
 
 @media (max-width: 600px) {
@@ -42,7 +38,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 90vh;
+    min-height: 80vh;
 }
 
 .board {
